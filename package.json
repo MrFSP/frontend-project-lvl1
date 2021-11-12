@@ -15,6 +15,9 @@
     "hexlet",
     "brain-games"
   ],
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "Pavel Egorov",
   "license": "ISC",
   "bugs": {
