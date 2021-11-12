@@ -1,6 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "0.1.0",
+  "type": "module",
   "description": "Hexlet front-end project #1",
   "main": "index.js",
   "scripts": {
@@ -14,6 +15,9 @@
     "hexlet",
     "brain-games"
   ],
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "Pavel Egorov",
   "license": "ISC",
   "bugs": {
