@@ -31,5 +31,8 @@ jobs:
         with:
           hexlet-id: ${{ secrets.HEXLET_ID }}
 
+      - name: Install deps
+        run: make install
+
       - name: Eslint check
         run: make lint
