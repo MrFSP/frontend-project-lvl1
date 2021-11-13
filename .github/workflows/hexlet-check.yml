@@ -18,6 +18,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [17.x]
+
     steps:
       - uses: actions/checkout@v2
 
@@ -25,3 +30,6 @@ jobs:
         uses: hexlet/project-action@release
         with:
           hexlet-id: ${{ secrets.HEXLET_ID }}
+
+      - name: Eslint check
+        run: make lint
