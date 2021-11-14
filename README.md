@@ -46,6 +46,11 @@ $ brain-prime
 ```
 brain-prime asciinema: https://asciinema.org/a/449128
 
+
+### Git-flow:
+
+<img width="664" alt="Screenshot 2021-11-15 at 01 12 19" src="https://user-images.githubusercontent.com/50883910/141701599-2e55cffa-1b1e-4409-96d2-92cfa3d78c26.png">
+
 ### Цель
 
 #### Настройка окружения
