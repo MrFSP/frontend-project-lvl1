@@ -8,7 +8,7 @@ install i:
 reinstall ri: uninstall install
 
 uninstall:
-	sudo npm uninstall -g brain-games
+	sudo npm uninstall -g \@hexlet/code
 
 # games
 
