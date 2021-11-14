@@ -1,4 +1,4 @@
-## [Проект Игры Разума](https://ru.hexlet.io/programs/frontend/projects/44) / [Профессия Бэкенд JavaScript (node.js)](https://ru.hexlet.io/programs/frontend)
+## [Проект Игры Разума](https://ru.hexlet.io/programs/frontend/projects/44) / [Профессия Фронтенд-разработчик](https://ru.hexlet.io/programs/frontend)
 
 ### Уровень: 1
 
@@ -8,7 +8,7 @@
 
 ### Демонстрации:
 
-Установка: https://asciinema.org/a/296967
+Установка:
 ```sh
 $ brain-even
 ```
