@@ -17,6 +17,10 @@ brain-even asciinema: https://asciinema.org/a/448976
 $ brain-calc
 ```
 brain-calc asciinema: https://asciinema.org/a/449050
+```sh
+$ brain-gcd
+```
+brain-gcd asciinema: https://asciinema.org/a/449112
 
 ### Цель
 
