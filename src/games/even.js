@@ -1,8 +1,8 @@
 /* eslint-disable import/extensions */
 
-import { getRandomInt } from './utils/functions.js';
+import { getRandomInt } from '../utils/functions.js';
 
-import game from './cli.js';
+import game from '..';
 
 const maxNumber = 100;
 
