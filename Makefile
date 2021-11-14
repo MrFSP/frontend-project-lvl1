@@ -5,6 +5,8 @@ install i:
 	npm publish --dry-run
 	sudo npm link
 
+reinstall ri: uninstall install
+
 uninstall:
 	sudo npm uninstall -g @hexlet/code
 
