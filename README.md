@@ -21,6 +21,10 @@ brain-calc asciinema: https://asciinema.org/a/449050
 $ brain-gcd
 ```
 brain-gcd asciinema: https://asciinema.org/a/449112
+```sh
+$ brain-progression
+```
+brain-progression asciinema: https://asciinema.org/a/449114
 
 ### Цель
 

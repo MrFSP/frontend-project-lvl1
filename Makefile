@@ -8,7 +8,7 @@ install i:
 reinstall ri: uninstall install
 
 uninstall:
-	sudo npm uninstall -g @hexlet/code
+	sudo npm uninstall -g brain-games
 
 # games
 
@@ -19,7 +19,10 @@ brain-even be:
 	node bin/brain-even.js
 
 brain-calc bc:
-	node bin/brain-even.js
+	node bin/brain-calc.js
+
+brain-progression bp:
+	node bin/brain-progression.js
 
 # other
 
