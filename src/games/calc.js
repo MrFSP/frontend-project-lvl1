@@ -1,7 +1,7 @@
 /* eslint-disable import/extensions */
 import { getRandomInt } from '../utils/functions.js';
 
-import game from '..';
+import game from '../index.js';
 
 const task = 'What is the result of the expression?';
 

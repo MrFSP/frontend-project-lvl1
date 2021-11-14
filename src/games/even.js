@@ -2,7 +2,7 @@
 
 import { getRandomInt } from '../utils/functions.js';
 
-import game from '..';
+import game from '../index.js';
 
 const maxNumber = 100;
 
