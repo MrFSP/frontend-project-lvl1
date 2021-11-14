@@ -6,11 +6,27 @@
 [![Actions Status](https://github.com/MrFSP/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/MrFSP/frontend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ae387fc72fb941d7cb97/maintainability)](https://codeclimate.com/github/MrFSP/frontend-project-lvl1/maintainability)
 
+### Установка
+
+```sh
+$ make install
+```
+
+### Запуск игр
+
+```sh
+$ brain-even
+$ brain-calc
+$ brain-gcd
+$ brain-progression
+$ brain-prime
+``` 
+
 ### Демонстрации:
 
 Установка:
 ```sh
-$ brain-even
+$ brain-even: https://asciinema.org/a/449131
 ```
 brain-even asciinema: https://asciinema.org/a/448976
 ```sh
