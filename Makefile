@@ -21,8 +21,11 @@ brain-even be:
 brain-calc bc:
 	node bin/brain-calc.js
 
-brain-progression bp:
+brain-progression bprog:
 	node bin/brain-progression.js
+
+brain-prime bprime:
+	node bin/brain-prime.js
 
 # other
 
